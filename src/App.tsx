@@ -6,7 +6,7 @@ import Footer from './components/footer';
 
 
 //Import des images 
-import lavageAuto from './assets/photoSection.jpg';
+import lavageAuto from './assets/photoSection.png';
 import interieurClassique from './assets/interieur-classique.webp'; 
 import exterieurClassique from './assets/exterieur-classique.jpg'; 
 import interieurExterieur from './assets/interieur-exterieur.jpg'
