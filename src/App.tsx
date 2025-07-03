@@ -125,7 +125,7 @@ function App() {
                       NETTOYAGE CONTOURS DE PORTE
                       BROSSAGE DES SIÈGES, TAPIS ET MOQUETTE
                       SHAMPOING À L'INJECTEUR, EXTRACTEUR
-                      DES SIEGE, TAPIS+ MOQUETTE
+                      DES SIEGES, TAPIS+ MOQUETTE
                     </p>
                   )}
                   <button className="w-full bg-blue-400 text-white py-3 px-6 rounded font-semibold hover:bg-blue-500 transition-colors duration-300">
