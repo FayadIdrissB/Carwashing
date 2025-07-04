@@ -22,7 +22,7 @@ function Footer() {
               </a>
 
                {/* Icône Snapchat */}
-              <a href="https://www.snapchat.com/add/ton_snap" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.snapchat.com/add/lvga6901" target="_blank" rel="noopener noreferrer">
                 <img src="/icons/snapchat-icon.png" alt="Snapchat" className="h-[64px] w-auto" />
               </a>
 
